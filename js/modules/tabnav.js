@@ -28,8 +28,4 @@ export default class TabNav {
       this.addTabNavEvent();
     }
   }
-
-  if() {
-    tabContent[0].classList.add(this.activeClass);
-  }
 }
